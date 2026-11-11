@@ -42,7 +42,6 @@ What I learned
 I learned how to use Python functions, loops, conditional statements and lists to build a menu-driven application. I also gained experience applying mathematical formulas and handling invalid user input.
 
 Author
-
 Name: Austin Joshua Chiemerie 
 Level: ND1
 Institution: Yaba College of Technology (YABATECH)
